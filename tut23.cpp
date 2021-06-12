@@ -36,7 +36,7 @@ void Shop ::displayPrice(void)
 int main()
 {
     Shop dukan;
-    dukan.initCounter();
+    dukan.initCounter(); //it is main
     dukan.setPrice();
     dukan.setPrice();
     dukan.setPrice();
